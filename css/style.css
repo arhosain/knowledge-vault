@@ -143,7 +143,8 @@
   /* border: 2px solid #F95555; */
   padding: 69px 24px ;
   border-radius: 8px;
-  box-shadow: 0px 0px 20px rgb(226, 226, 226);
+  box-shadow: 0px 0px 10px rgb(237, 237, 237);
+  
 }
 
 .note h4{
@@ -155,8 +156,17 @@
 
 /* brain section  */
 .brain-section{
-  background-color: #b6f4d0;
+  background-color: #ffffff;
   padding-top: 120px;
+  /* border: 2px solid rgb(255, 174, 174); */
+  /* margin: px; */ 
+  position: absolute;
+  width: 100%;
+  top: 400px;
+  
+  
+  
+  
 }
 .brain-container{
   
@@ -190,3 +200,33 @@
   gap: 8px;
 }
 
+
+/* early access section  */
+
+.early-access{
+  margin-top: 120px ;
+  text-align: center;
+  background-color:#F7F6F2 ;
+  padding: 80px 0px ;
+  border-radius: 12px;
+}
+.early-access h3{
+  font-size: 40px;
+  font-weight: bold;
+}
+.early-access button{
+  margin-top: 24px;
+}
+.early-access p{
+  font-size: 16px;
+  color: #627382;
+  margin-top: 16px;
+}
+
+/* index  */ 
+
+.index{
+  position: relative;
+  height: 1150px;
+  width: 100%;
+}
