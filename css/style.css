@@ -152,3 +152,41 @@
   font-weight:600 ;
   margin: 16px 0px;
 }
+
+/* brain section  */
+.brain-section{
+  background-color: #b6f4d0;
+  padding-top: 120px;
+}
+.brain-container{
+  
+  display: flex;
+  gap: 60px;
+  align-items: center;
+}
+.brain-container h3{
+  margin:16px 0px ;
+  
+}
+
+.brain-contents h3 {
+  font-size:48px ;
+  font-weight: bold;
+}
+.brain-description{
+  font-size: 16px;
+  color:#627382 ;
+}
+
+
+
+.brain-title{
+  color: #30B868;
+}
+.brain-check-section{
+  display: flex;
+  margin-top: 40px;
+  margin-bottom: -16px;
+  gap: 8px;
+}
+
