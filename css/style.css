@@ -247,6 +247,9 @@
   margin-bottom: -16px;
   gap: 8px;
 }
+.brain-check-section p {
+  font-weight: 500;
+}
 
 
 
